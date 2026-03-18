@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 51d784533bc3e154baa25341f23eb8e5
   m_currentHash:
     serializedVersion: 2
-    Hash: f8ee7e9abcf9db0d121c540367a3e885
+    Hash: 4c356f4f197917510330ec18d625cba4
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_CatalogRequestsTimeout: 0
@@ -94,7 +94,7 @@ MonoBehaviour:
       - m_Id: 344e6dccdb143014daca884a8ac76a95
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
       - m_Id: 962616253bdafae4193d50cbf11ee705
-        m_Value: <undefined>
+        m_Value: file:///D:/Repository/TestNewStack/Assets/RemoteBuilds
       - m_Id: b8e734ef751002d409d59d46976510c0
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: c2d5b1e0bd1f0c74aa3a29408ba874ba
