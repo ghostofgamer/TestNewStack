@@ -74,3 +74,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbcc5a02176e4154c8dcf5852af92d60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GlobalInstaller
+  _loadingScreenPrefab: {fileID: 3814808226649398605, guid: 328e4339c097eed4d97c259f32d46754, type: 3}

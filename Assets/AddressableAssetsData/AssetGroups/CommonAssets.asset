@@ -15,6 +15,11 @@ MonoBehaviour:
   m_GroupName: CommonAssets
   m_GUID: 856550a0c633702428030ac2ef69a399
   m_SerializeEntries:
+  - m_GUID: 1eaee135ce037439d925cee5e41ce026
+    m_Address: Assets/AddedAssets/2D Casual UI/Sprite/GUI.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 4df8f588e2dbd4977adde745edb6564a
     m_Address: Assets/Sprites/stage_reward_icon_gold.png
     m_ReadOnly: 0
