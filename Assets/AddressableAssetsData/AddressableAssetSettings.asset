@@ -15,9 +15,9 @@ MonoBehaviour:
   m_DefaultGroup: 51d784533bc3e154baa25341f23eb8e5
   m_currentHash:
     serializedVersion: 2
-    Hash: 4c356f4f197917510330ec18d625cba4
+    Hash: 0a4ae6526afff9a02821f97735f96349
   m_OptimizeCatalogSize: 0
-  m_BuildRemoteCatalog: 0
+  m_BuildRemoteCatalog: 1
   m_CatalogRequestsTimeout: 0
   m_DisableCatalogUpdateOnStart: 0
   m_InternalIdNamingMode: 0
@@ -51,9 +51,9 @@ MonoBehaviour:
   m_CheckForContentUpdateRestrictionsOption: 0
   m_MonoScriptBundleCustomNaming: 
   m_RemoteCatalogBuildPath:
-    m_Id: 
+    m_Id: c93b44f10c2c49540aae8549de815a65
   m_RemoteCatalogLoadPath:
-    m_Id: 
+    m_Id: 962616253bdafae4193d50cbf11ee705
   m_ContentStateBuildPathProfileVariableName: <default settings path>
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
@@ -65,6 +65,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e7bb5154b7e437441a3fc61b432a85d7, type: 2}
   - {fileID: 11400000, guid: 9dca866c1ba41f745a2af5ecc9ec7445, type: 2}
   - {fileID: 11400000, guid: e5e202afb2166944c9b7b68e0921ecff, type: 2}
+  - {fileID: 11400000, guid: 222196dfe635a6d4a8fd986fd7b6433f, type: 2}
   - {fileID: 11400000, guid: 2895d3e4a493a354f9c6fbf28117b771, type: 2}
   - {fileID: 11400000, guid: 1569defa0cb0a7e41bbd7ab3a7bb9df4, type: 2}
   - {fileID: 11400000, guid: 0d8384c08bd01c4499fd824850ce6ee4, type: 2}
@@ -80,7 +81,7 @@ MonoBehaviour:
       - m_Id: 344e6dccdb143014daca884a8ac76a95
         m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
       - m_Id: 962616253bdafae4193d50cbf11ee705
-        m_Value: <undefined>
+        m_Value: 'https://raw.githubusercontent.com/ghostofgamer/TestNewStack/main/ServerData/[BuildTarget]'
       - m_Id: b8e734ef751002d409d59d46976510c0
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: c2d5b1e0bd1f0c74aa3a29408ba874ba
@@ -133,4 +134,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6f3d76015581ab24cbb9c90d8e73281f, type: 2}
   - {fileID: 11400000, guid: 96331475aabd9b94ea29535bb5f5b692, type: 2}
   - {fileID: 11400000, guid: f8c9e8169bf2def4c99a935fad38eb05, type: 2}
-  m_ActiveProfileId: be185d9de9f3be546ad26089df00a508
+  m_ActiveProfileId: ea015cc4b7da01e4baa358fb2ac3f820
